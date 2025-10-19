@@ -23,11 +23,11 @@ Speed, accuracy,
 Video Classification Agent - Setup & Usage Guide
 Overview
 This is a complete Agentic AI system that combines:
-* ✅ Multi-step reasoning (agent plans and executes)
-* ✅ Video processing (frame extraction and analysis)
-* ✅ Computer vision (object detection, scene classification)
-* ✅ Memory system (learns from past analyses)
-* ✅ MCP integration (works with Claude)
+* Multi-step reasoning (agent plans and executes)
+*  Video processing (frame extraction and analysis)
+*  Computer vision (object detection, scene classification)
+*  Memory system (learns from past analyses)
+*  MCP integration (works with Claude)
 
 Installation
 Step 1: Install Dependencies
