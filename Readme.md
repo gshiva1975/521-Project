@@ -1,4 +1,6 @@
-Agentic AI with a MCP Server for human-activity-recognition video analysis
+
+
+Agentic AI Scalable Video Classification with LoRA Fine-Tuning and LangGraph-NLP Based Video Summarization
 
 
 https://www.kaggle.com/code/rokoyim/human-activity-recognition
