@@ -135,7 +135,7 @@ Claude: Let me analyze this video step by step.
 [Classifies based on evidence]
 
 Result:
-📊 Video Classification Report
+ Video Classification Report
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Primary Category: Sports
